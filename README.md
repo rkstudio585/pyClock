@@ -2,7 +2,7 @@
 
 ---
 
-![pyclock logo](logo.jpeg)
+![pyclock logo](logo.webp)
 ---
 `pyClock` is a real-time, terminal-based clock created using Python, `rich` library for a colorful user interface, and `pyfiglet` for beautiful ASCII clock styling. The clock continuously updates every second, offering a visually appealing and interactive experience in your terminal.
 
