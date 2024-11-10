@@ -113,24 +113,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 Happy Clocking! ⏰
-
-### Explanation of the README Structure:
-1. **Project Name**: `pyClock 🕰️`
-   - The project name with an emoji representing a clock.
-   
-2. **Features**: 
-   - A brief list of the main features of the project, including the real-time clock, ASCII art, and colorful terminal interface.
-
-3. **Requirements**: 
-   - Clear instructions on what you need to install to run the project (`rich`, `pyfiglet`, and Python).
-
-4. **Usage**: 
-   - Instructions for cloning the repo, installing dependencies, and running the script.
-
-5. **Code Explanation**: 
-   - A breakdown of how the main script (`clock.py`) works, including the loop that updates the time and uses `rich` and `pyfiglet` for display.
-
-6. **Contributing**: 
-   - Encouragement for others to contribute to the project.
-
----
