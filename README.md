@@ -1,8 +1,8 @@
 # pyClock 🕰️
 
 ---
-
 ![pyclock logo](logo.webp)
+
 ---
 `pyClock` is a real-time, terminal-based clock created using Python, `rich` library for a colorful user interface, and `pyfiglet` for beautiful ASCII clock styling. The clock continuously updates every second, offering a visually appealing and interactive experience in your terminal.
 
@@ -98,6 +98,13 @@ def display_clock():
 ## Contributing 🤝
 
 Feel free to fork the repository, clone it, and make improvements. If you add any new features or fix bugs, please create a pull request.
+
+## Screenshots 🖼️ 
+
+> This Screenshot Take In Termux.
+ > ![fast screenshot](1.jpg)
+ > 
+ > ![second screenshot](2.jpg)
 
 ## License 📜
 
